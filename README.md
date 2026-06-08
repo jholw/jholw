@@ -12,11 +12,13 @@ Tenho grande interesse por:
 * Cybersecurity
 * ITIL e Gestão de Serviços
 * Metodologias Ágeis
+* Lean Six Sigma - Aplicado ao TI
 
 ## 🌱 Atualmente Estudando
 
 Estou constantemente buscando novos conhecimentos e aprimorando minhas habilidades em:
 
+* Melhoria Contínua
 * Automação de TI
 * Java
 * Kotlin
